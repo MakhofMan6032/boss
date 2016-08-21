@@ -5,7 +5,7 @@
 
 
 
-[![https://telegram.me/joinchat/avatar_tg_tm](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Channel-red.svg)](https://telegram.me/joinchat/avatar_tg_tm)] [![https://telegram.me/avatar_tg_new](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-antispam_bot-blue.svg)](https://telegram.me/avatar_tg_new) [![https://telegram.me/ali_dev_avatar_tg](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Agent_(Creator)-yellow.svg)](https://telegram.me/ali_dev_avatar_tg/ "Donate to Red Cross Society")
+[![https://telegram.me/avatar_tg_tm](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-antispam_channel-red.svg)](https://telegram.me/avatar_tg_tm) [![https://telegram.me/avatar_tg_new](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-antispam_bot-blue.svg)](https://telegram.me/avatar_tg_new) [![https://telegram.me/ali_dev_avatar_tg](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Agent_(Creator)-yellow.svg)](https://telegram.me/ali_dev_avatar_tg/ "Donate to Red Cross Society")
 
 
 ### MY Telegram channel:
