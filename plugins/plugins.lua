@@ -215,7 +215,7 @@ return {
           "!plugins * : reloads all plugins." },
           },
   patterns = {
-    "^!p$",
+    "^p$",
     "^!pl? (+) ([%w_%.%-]+)$",
     "^!p? (-) ([%w_%.%-]+)$",
     "^!pl? (+) ([%w_%.%-]+) (chat)",
