@@ -344,7 +344,7 @@ This command will send text to [group_id]
     help_text = [[
 Not allowed for you🚫
 Needs Sudo🗽
-@agent_spartacus
+@Ali_dev_avatar_TG
 ]],
 	help_text_super =[[
 ✅Commands to open|close
@@ -437,16 +437,16 @@ Needs Sudo🗽
 🔳ABOUT :
 ▪️▫️▪️▫️▪️▫️▪️▫️▪️
 CHANNEL :
- 👑@AVATAR_TG_TM👑
+ 👑 @AVATAR_TG_TM 👑
 ➖🔸➖🔹➖🔸➖🔹➖
 CREATOR :
- 👑@Ali_dev_avatar_TG👑
+ 👑 @Ali_dev_avatar_TG 👑
 ➖🔸➖🔹➖🔸➖🔹➖
 BOT :
-👑@AVATAR_TG_NEW👑
+👑 @AVATAR_TG_NEW 👑
 ➖🔸➖🔹➖🔸➖🔹➖
 Bot (For Report) :
-👑@SUDO_ALI_BOT👑
+👑 @SUDO_ALI_BOT 👑
 ➖🔸➖🔹➖🔸➖🔹➖
 ]],
   }
