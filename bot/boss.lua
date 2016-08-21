@@ -252,7 +252,8 @@ function create_config( )
     "write",
     "getplug",
     "me",
-    "expire"
+    "expire",
+    "update"
     },
     sudo_users = {212295971,0},--Sudo users
     moderation = {data = 'data/moderation.json'},
