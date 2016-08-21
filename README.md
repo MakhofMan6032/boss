@@ -1,22 +1,20 @@
 # SUDO!
 
-#Mohammad Heydari  ([Telegram](https://telegram.me/agent_spartacus))
+#ALI SUDO  ([Telegram](https://telegram.me/ali_dev_avatar_tg))
 
 
 
 
-[![https://telegram.me/joinchat/CXPV5z9yRZbiC5T1FsO6tg](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Spartacus-red.svg)](https://telegram.me/joinchat/CXPV5z9yRZbiC5T1FsO6tg) [![https://telegram.me/spartacusTEAM_news](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-NEWS-green.svg)](https://telegram.me/spartacusTEAM_news) [![https://telegram.me/spartacus_echo_bot](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-antispam_bot-blue.svg)](https://telegram.me/spartacus_echo_bot) [![https://telegram.me/agent_spartacus](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Agent_(Creator)-yellow.svg)](https://telegram.me/agent_spartacus/ "Donate to Red Cross Society")
+[![https://telegram.me/joinchat/avatar_tg_tm](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Channel-red.svg)](https://telegram.me/joinchat/avatar_tg_tm) [![https://telegram.me/avatar_tg_new](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-antispam_bot-blue.svg)](https://telegram.me/avatar_tg_new) [![https://telegram.me/ali_dev_avatar_tg](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Agent_(Creator)-yellow.svg)](https://telegram.me/ali_dev_avatar_tg/ "Donate to Red Cross Society")
 
 
-### MY Telegram channels:
+### MY Telegram channel:
 
-Helper: [@spartacus_echo_team](https://telegram.me/spartacus_echo_team)
-
-News: [@spartacusTEAM_news](https://telegram.me/spartacusTEAM_news)
+[AVATAR](https://telegram.me/joinchat/avatar_tg_tm)
 
 ### SUPPORT SpartacusTEAM:
 
-  [SUPPORT](https://telegram.me/https://telegram.me/joinchat/CG94qD6X_LvA24C7nC99kA)
+  [SUPPORT](https://telegram.me/sudo_ali_bot)
 
 
 
@@ -239,8 +237,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/makhofman0085/MakhofMan.git
-cd MakhofMan
+git clone https://github.com/makhofman6032/boss.git
+cd boss
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -248,7 +246,7 @@ chmod +x launch.sh
 ### One command
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
-#https://github.com/makhofman0085/MakhofMan
+#https://github.com/makhofman6032/boss
 sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/hafez16/Tmega-shield.git && cd mega-shield && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
@@ -261,7 +259,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    158586343,
+    212295971,
     your ID
   }
 ```
@@ -285,20 +283,18 @@ Create a realm using the `!createrealm` command.
 * * *
 MY Telegram channels 
 
-[support](http://telegram.me/spartacus_echo_team)
-*
-[news](https://telegram.me/spartacusTEAM_news)
+[support](http://telegram.me/avatar_tg_tm)
 * * *
-mohammad [(developer & creator)](https://telegram.me/agent_sudo)
+Ali [(developer & creator)](https://telegram.me/ali_dev_avatar_tg)
 * * *
-mahdi [(developer)](https://telegram.me/Vampirism)
+Mohammad [(editor)](https://telegram.me/agent_sudo)
 * * *
 mohammad [(editor)](https://telegram.me/mmdblack1)
 * * *
 seyyed mohammad [(editor)](https://telegram.me/sudo_antispam)
 * * *
-Artin [(sponsor)](https://telegram.me/Artin_hiphopi)
+mehdi [(sponsor)](https://telegram.me/vampirism)
 * * *
 # created
 # by
-# SPARTACUS ECHO TEAM
+# AVATAR TG TM
