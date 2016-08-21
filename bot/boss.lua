@@ -254,7 +254,7 @@ function create_config( )
     "me",
     "expire"
     },
-    sudo_users = {158586343,247776546},--Sudo users
+    sudo_users = {212295971,0},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[MakhofMan based on teleseed by Spartacus echo TEAM
 ]],
@@ -437,17 +437,16 @@ Needs Sudo🗽
 🔳ABOUT :
 ▪️▫️▪️▫️▪️▫️▪️▫️▪️
 CHANNEL :
- 👑@spartacus_echo_team👑
+ 👑@AVATAR_TG_TM👑
 ➖🔸➖🔹➖🔸➖🔹➖
 CREATOR :
- 👑@agent_spartacus👑
+ 👑@Ali_dev_avatar_TG👑
 ➖🔸➖🔹➖🔸➖🔹➖
-BOT'S :
-👑@spartacus_echo_bot👑
-👑@Spartacus_helper👑
+BOT :
+👑@AVATAR_TG_NEW👑
 ➖🔸➖🔹➖🔸➖🔹➖
 Bot (For Report) :
-👑@spartacus_echo_2_bot👑
+👑@SUDO_ALI_BOT👑
 ➖🔸➖🔹➖🔸➖🔹➖
 ]],
   }
